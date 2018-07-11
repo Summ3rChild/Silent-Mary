@@ -1,0 +1,32 @@
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-image: url('https://img.youtube.com/vi/AtdnWYqbMwc/maxresdefault.jpg');
+  background-size: cover;
+}
+
+header {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: auto;
+  height: 190px;
+  background-color: white;
+}
+
+.logoheader {
+  margin-left: 500px;
+  margin-top: 10px;
+}
+
+.logomenu {
+  width: auto;
+
+}
+
+.festivals {
+
+}
